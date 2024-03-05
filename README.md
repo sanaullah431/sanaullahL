@@ -1,2 +1,2 @@
 # sanaullahL
-this my first git
+this my first git repository
